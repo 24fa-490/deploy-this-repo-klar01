@@ -27,6 +27,6 @@
 # Where am I deployed?
 
 <enter your URL here>
-Vercel
+Used Vercel
 
 
