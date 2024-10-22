@@ -25,8 +25,6 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-
-<enter your URL here>
-Used Vercel
+deploy-this-repo-klar01.railway.internal
 
 
