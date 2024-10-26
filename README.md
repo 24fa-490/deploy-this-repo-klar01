@@ -25,7 +25,6 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-
-<enter your URL here>
+http://deploy-this-repo-klar01-production.up.railway.app
 
 
